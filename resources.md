@@ -11,6 +11,17 @@
 [Texture coordinates D3D](https://learn.microsoft.com/en-us/windows/win32/direct3d9/texture-coordinates)<br>
 [Better attenuation for lights](https://lisyarus.github.io/blog/posts/point-light-attenuation.html)<br>
 [iquilezles articles](https://iquilezles.org/articles/)<br>
+[Efficient Gaussian Blur with linear sampling](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)<br>
+[GPU gems](https://developer.nvidia.com/gpugems/gpugems/contributors)<br>
+
+# Graphics APIs:
+[Learn OpenGL ORG](https://learnopengl.com/)<br>
+[OpenGL spec 4.6](https://registry.khronos.org/OpenGL/specs/gl/glspec46.core.pdf)<br>
+[OGL dev](https://www.ogldev.org/index.html)<br>
+[Vulkan tutorial](https://vulkan-tutorial.com/)<br>
+[Vulkan Specification](https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html)<br>
+[D3D11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials)<br>
+[D3D11 Specification](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm)<br>
 
 # Shaders:
 [HLSL reference](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-reference)<br>
