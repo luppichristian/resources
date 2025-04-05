@@ -22,8 +22,8 @@
 [Vulkan Specification](https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html)<br>
 [D3D11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials)<br>
 [D3D11 Specification](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm)<br>
-[Minimal D3D11](https://gist.github.com/d7samurai/261c69490cce0620d0bfc93003cd1052)
-[D3D12 Tutorial](https://www.3dgep.com/learning-directx-12-1/)
+[Minimal D3D11](https://gist.github.com/d7samurai/261c69490cce0620d0bfc93003cd1052)<br>
+[D3D12 Tutorial](https://www.3dgep.com/learning-directx-12-1/)<br>
 
 # SDL3 GPU:
 [SDL_gpu.h](https://github.com/libsdl-org/SDL/blob/main/include/SDL3/SDL_gpu.h)<br>
