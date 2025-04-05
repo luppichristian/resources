@@ -1,5 +1,5 @@
 
-# General Graphics Programming Concepts:
+# Graphics Programming:
 [The graphics pipeline](https://graphicscompendium.com/intro/01-graphics-pipeline)<br>
 [Whats Premultiplied Alpha?](https://limnu.com/premultiplied-alpha-primer-artists/)<br>
 [Alpha compositing, OpenGL blending and premultiplied alpha](https://apoorvaj.io/alpha-compositing-opengl-blending-and-premultiplied-alpha/)<br>
@@ -22,6 +22,13 @@
 [Vulkan Specification](https://registry.khronos.org/vulkan/specs/latest/html/vkspec.html)<br>
 [D3D11 Tutorials](https://www.braynzarsoft.net/viewtutorial/q16390-braynzar-soft-directx-11-tutorials)<br>
 [D3D11 Specification](https://microsoft.github.io/DirectX-Specs/d3d/archive/D3D11_3_FunctionalSpec.htm)<br>
+[Minimal D3D11](https://gist.github.com/d7samurai/261c69490cce0620d0bfc93003cd1052)
+
+# SDL3 GPU:
+[SDL_gpu.h](https://github.com/libsdl-org/SDL/blob/main/include/SDL3/SDL_gpu.h)<br>
+[Examples](https://github.com/TheSpydog/SDL_gpu_examples)<br>
+[Introducing shadercross](https://moonside.games/posts/introducing-sdl-shadercross)<br>
+[Cycling concept](https://moonside.games/posts/sdl-gpu-concepts-cycling/)<br>
 
 # Shaders:
 [HLSL reference](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-reference)<br>
