@@ -10,6 +10,15 @@
 [Directly mapping texels to pixels](https://learn.microsoft.com/en-us/windows/win32/direct3d9/directly-mapping-texels-to-pixels)<br>
 [Texture coordinates D3D](https://learn.microsoft.com/en-us/windows/win32/direct3d9/texture-coordinates)<br>
 [Better attenuation for lights](https://lisyarus.github.io/blog/posts/point-light-attenuation.html)<br>
+[iquilezles articles](https://iquilezles.org/articles/)<br>
+
+# Shaders:
+[HLSL reference](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl-reference)<br>
+[GLSL reference](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))<br>
+[GLSL cheatsheet](https://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf)<br>
+[Shadertoy for online shader editing](https://www.shadertoy.com/)<br>
+[The book of shaders](https://thebookofshaders.com/)<br>
+[Conditionals in Shaders](https://iquilezles.org/articles/gpuconditionals/)<br>
 
 # CPU Particle Systems:
 [Handmade Hero introduction to Particle Systems](https://www.youtube.com/watch?v=G6OGKP3MaUI)<br>
