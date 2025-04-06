@@ -13,6 +13,7 @@
 [iquilezles articles](https://iquilezles.org/articles/)<br>
 [Efficient Gaussian Blur with linear sampling](https://www.rastergrid.com/blog/2010/09/efficient-gaussian-blur-with-linear-sampling/)<br>
 [GPU gems](https://developer.nvidia.com/gpugems/gpugems/contributors)<br>
+[Color grading with Look-up Textures](https://halisavakis.com/my-take-on-shaders-color-grading-with-look-up-textures-lut/)<br>
 
 # Graphics APIs:
 [Learn OpenGL ORG](https://learnopengl.com/)<br>
@@ -49,3 +50,10 @@
 # GPU Particle Systems:
 [Introduction to GPU particle systems](https://wickedengine.net/2017/11/gpu-based-particle-simulation/)<br>
 [Particle system implementation with Modern OpenGL](https://www.youtube.com/watch?v=pzAZ0xjWDv8&t=720s)<br>
+
+# Pixel Art Style
+[Antialiased texture sampling for Pixel Art (only works if the framebuffer is at full res)](https://gist.github.com/d7samurai/9f17966ba6130a75d1bfb0f1894ed377)<br>
+[Style Consistency](https://saint11.art/blog/consistency/)<br>
+[Aseprite command line interface](https://www.aseprite.org/docs/cli/)<br>
+[Color palettes](https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes)<br>
+[Video about smooth camera for pixel art(for framebuffer smaller than window size)](https://www.youtube.com/watch?v=jguyR4yJb1M)<br>
