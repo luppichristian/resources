@@ -1,4 +1,12 @@
 
+# General C Programming:
+[Memory Arenas by rfleury](https://www.rfleury.com/p/enter-the-arena-talk)<br>
+[Memory Arenas lifetimes](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)<br>
+[Rfleury programming posts](https://www.rfleury.com/p/posts-table-of-contents)<br>
+[Handmade Hero Episode Guide](https://guide.handmadehero.org/code/)<br>
+[Introduction to Hash tables](https://guide.handmadehero.org/code/day055/#617)<br>
+[Hash tables Occupancy](https://guide.handmadehero.org/code/day351/#6055)<br>
+
 # Graphics Programming:
 [The graphics pipeline](https://graphicscompendium.com/intro/01-graphics-pipeline)<br>
 [Whats Premultiplied Alpha?](https://limnu.com/premultiplied-alpha-primer-artists/)<br>
