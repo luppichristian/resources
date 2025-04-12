@@ -59,3 +59,4 @@
 [Video about smooth camera for pixel art(for framebuffer smaller than window size)](https://www.youtube.com/watch?v=jguyR4yJb1M)<br>
 [Pixel Art Pixel Perfect Style vs Modern Style](https://www.youtube.com/watch?v=QK9wym71F7s)<br>
 [Smooth pixel perfect camera](https://www.youtube.com/watch?v=zxVQsi9wnw8)<br>
+[Smooth parallax layers](https://www.youtube.com/watch?v=c_3TLN2gHow&t=1s)<br>
