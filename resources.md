@@ -61,6 +61,7 @@
 
 # Pixel Art Style
 [Antialiased texture sampling for Pixel Art (only works if the framebuffer is at full res)](https://gist.github.com/d7samurai/9f17966ba6130a75d1bfb0f1894ed377)<br>
+[Antialiased texture sampling for 3D Pixel Art)[https://www.youtube.com/watch?v=d6tp43wZqps]<br>
 [Style Consistency](https://saint11.art/blog/consistency/)<br>
 [Aseprite command line interface](https://www.aseprite.org/docs/cli/)<br>
 [Color palettes](https://www.slynyrd.com/blog/2018/1/10/pixelblog-1-color-palettes)<br>
