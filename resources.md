@@ -6,6 +6,8 @@
 [Handmade Hero Episode Guide](https://guide.handmadehero.org/code/)<br>
 [Introduction to Hash tables](https://guide.handmadehero.org/code/day055/#617)<br>
 [Hash tables Occupancy](https://guide.handmadehero.org/code/day351/#6055)<br>
+[Simple hash functions](https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200101/homework10/hashfuncs.html)<br>
+[Good videos on building a low level codebase](https://www.youtube.com/@Mr4thProgramming)<br>
 
 # Graphics Programming:
 [The graphics pipeline](https://graphicscompendium.com/intro/01-graphics-pipeline)<br>
