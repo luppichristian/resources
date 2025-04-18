@@ -77,3 +77,14 @@
 [Pixel Art Pixel Perfect Style vs Modern Style](https://www.youtube.com/watch?v=QK9wym71F7s)<br>
 [Smooth pixel perfect camera](https://www.youtube.com/watch?v=zxVQsi9wnw8)<br>
 [Smooth parallax layers](https://www.youtube.com/watch?v=c_3TLN2gHow&t=1s)<br>
+
+# Enemy AI
+[Introducing Astar pathfinding](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2)<br>
+[Video about Astar implementation in C++](https://www.youtube.com/watch?v=icZj67PTFhc)<br>
+[Youtube channel about AI in games](https://www.youtube.com/@AIandGames/videos)<br>
+[Introducing GOAP](https://medium.com/@vedantchaudhari/goal-oriented-action-planning-34035ed40d0b)<br>
+[Good talk about GOAP](https://www.youtube.com/watch?v=gm7K68663rA)<br>
+[GOAP simplified video](https://www.youtube.com/watch?v=qaIF0iaDWRQ&t=48s)<br>
+[Pathfinding applied to platformers](https://www.gamedeveloper.com/design/the-hobbyist-coder-3-2d-platformers-pathfinding---part-1-2)<br>
+[More about adapting Astar to platformers](https://code.tutsplus.com/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662t)<br>
+[Handmade Hero simple entity behaviour](https://www.youtube.com/watch?v=gwtSqvoxU14)<br>
