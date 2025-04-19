@@ -88,3 +88,4 @@
 [Pathfinding applied to platformers](https://www.gamedeveloper.com/design/the-hobbyist-coder-3-2d-platformers-pathfinding---part-1-2)<br>
 [More about adapting Astar to platformers](https://code.tutsplus.com/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662t)<br>
 [Handmade Hero simple entity behaviour](https://www.youtube.com/watch?v=gwtSqvoxU14)<br>
+[Simple GOAP implementation in C#](https://github.com/Elias-W1/GOAP-C-Sharp/blob/master/IterativePlanner.cs)<br>
