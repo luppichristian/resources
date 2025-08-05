@@ -89,3 +89,7 @@
 [More about adapting Astar to platformers](https://code.tutsplus.com/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662t)<br>
 [Handmade Hero simple entity behaviour](https://www.youtube.com/watch?v=gwtSqvoxU14)<br>
 [Simple GOAP implementation in C#](https://github.com/Elias-W1/GOAP-C-Sharp/blob/master/IterativePlanner.cs)<br>
+
+# Entity Component Systems
+[Event System with ECS](https://medium.com/@savas/nomad-game-engine-part-7-the-event-system-45a809ccb68f)<br>
+[Other great posts about Game Engine Architecture](https://medium.com/@savas)<br>
