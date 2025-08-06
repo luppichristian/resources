@@ -93,3 +93,4 @@
 # Entity Component Systems
 [Event System with ECS](https://medium.com/@savas/nomad-game-engine-part-7-the-event-system-45a809ccb68f)<br>
 [Other great posts about Game Engine Architecture](https://medium.com/@savas)<br>
+[Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)<br>
