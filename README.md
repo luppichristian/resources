@@ -90,7 +90,15 @@
 [Handmade Hero simple entity behaviour](https://www.youtube.com/watch?v=gwtSqvoxU14)<br>
 [Simple GOAP implementation in C#](https://github.com/Elias-W1/GOAP-C-Sharp/blob/master/IterativePlanner.cs)<br>
 
-# Entity Component Systems
+# Entity Systems
 [Event System with ECS](https://medium.com/@savas/nomad-game-engine-part-7-the-event-system-45a809ccb68f)<br>
 [Other great posts about Game Engine Architecture](https://medium.com/@savas)<br>
 [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)<br>
+[Alternatives to ECS](https://www.youtube.com/watch?v=0S-KGLmLYnI)<br>
+[The sparse entity system Handmade Hero](https://guide.handmadehero.org/code/day277/)<br>
+
+# 2D Juicy Effects
+[Water for sidescroller](https://www.youtube.com/watch?v=RXIRkou021U)<br>
+[Water for topdown](https://www.youtube.com/watch?v=pGOLstWBCDA&t=630s)<br>
+[Water Trail](https://www.youtube.com/watch?v=W4eVR_Fm5Gs)<br>
+[Dual Grid system for Tilemaps](https://www.youtube.com/watch?v=jEWFSv3ivTg&pp=0gcJCa0JAYcqIYzv)<br>
