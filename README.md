@@ -89,6 +89,9 @@
 [More about adapting Astar to platformers](https://code.tutsplus.com/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-theory--cms-24662t)<br>
 [Handmade Hero simple entity behaviour](https://www.youtube.com/watch?v=gwtSqvoxU14)<br>
 [Simple GOAP implementation in C#](https://github.com/Elias-W1/GOAP-C-Sharp/blob/master/IterativePlanner.cs)<br>
+[Introduction to Enemy AI](https://gamedevbeginner.com/enemy-ai-in-unity/#switch_statements)<br>
+[Complete Guide of Enemy AI](https://www.gamedev.net/tutorials/programming/artificial-intelligence/the-total-beginners-guide-to-game-ai-r4942/)<br>
+[GOAP implementation in C](https://github.com/stolk/GPGOAP)<br>
 
 # Entity Systems
 [Event System with ECS](https://medium.com/@savas/nomad-game-engine-part-7-the-event-system-45a809ccb68f)<br>
