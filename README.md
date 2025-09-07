@@ -102,6 +102,7 @@
 [Water for topdown](https://www.youtube.com/watch?v=pGOLstWBCDA&t=630s)<br>
 [Water Trail](https://www.youtube.com/watch?v=W4eVR_Fm5Gs)<br>
 [Dual Grid system for Tilemaps](https://www.youtube.com/watch?v=jEWFSv3ivTg&pp=0gcJCa0JAYcqIYzv)<br>
+[Velocity Buffer for Effects (Simulation)](https://github.com/aarthificial/pixelgraphics/blob/master/Runtime/Shaders/VelocitySimulation.hlsl)<br>
 
 # 2D platformer physics
 [Box2D for platformer physics](https://bhopkins.net/pages/mmphysics/)<br>
